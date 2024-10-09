@@ -47,6 +47,9 @@ MIT
 @po-ui/style
 MIT
 
+@totvs/po-theme
+MIT
+
 @totvs/protheus-lib-core
 
 bootstrap
